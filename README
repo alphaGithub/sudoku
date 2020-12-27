@@ -1,0 +1,5 @@
+Project:SUDOKU
+Project Developers : Amit Kushwaha(MIT2020031) , Chandra Mani(MIT2020112)
+Programming Language:Python3 (version >=3.4)
+Package Used: pyqt5,deepcopy,os,sys (To install pip3 install <packgage_name>)
+To start Game : python3 sudoku_ui.py (in terminal)
